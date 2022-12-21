@@ -109,7 +109,7 @@ class KnnClassifier:
 def main():
 
     print("*" * 20)
-    print("Started HW1_ID1_ID2.py")
+    print("Started KnnClassifier.py")
     # Parsing script arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('csv', type=str, help='Input csv file path')
